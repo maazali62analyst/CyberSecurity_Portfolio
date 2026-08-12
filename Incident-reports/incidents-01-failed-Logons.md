@@ -45,6 +45,9 @@ or brute-force activity.
 - Periodically review Security event logs for repeated failures
   from unfamiliar accounts or remote sources
 
+
 ## Screenshots
-See `/screenshots/incident-01-splunk-search.png`,
-`/screenshots/incident-01-event-detail.png`
+
+![Splunk search results](../screenshots/incident-01-splunk-search.png)
+
+![Event detail view](../screenshots/incident-01-event-detail.png)
