@@ -48,6 +48,7 @@ or brute-force activity.
 
 ## Screenshots
 
-![Splunk search results](../screenshots/incident-01-splunk-search.png)
+![Splunk search results](../Screenshots/incident-01-splunk-search.png)
+![Event detail view](../Screenshots/incident-01-event-detail.png)
 
 ![Event detail view](../screenshots/incident-01-event-detail.png)
